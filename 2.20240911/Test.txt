@@ -1,1 +1,5 @@
+1. C:/P_Project/1.Project/4-Project/  (해당 HTML 파일은  templates 폴더안에있어야한다)
+    ├── app.py
+    └── templates/
+      └── index.html
 
